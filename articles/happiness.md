@@ -65,7 +65,7 @@ Quote:
 >
 > Whenever a developer receives feedback like “this has to be redone”, they will inevitably associate this feedback with themselves.
 >
-> The more effort a person spent on doing something, the more vulnerable she is to the critics. And while she hadn’t been taught properly how the problem should have been solved, she considers negative feedback even worse.
+> The more effort a person spent on doing something, the more vulnerable they are to the critics. And while they hadn’t been taught properly how the problem should have been solved, they considers negative feedback even worse.
 >
 > Internet’s full of posts and articles on how to “solve” this “negativity problem”. Most of these posts talk about how to provide more “positive” feedback.
 >
